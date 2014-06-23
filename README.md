@@ -7,7 +7,8 @@ O funcionamento do programa se ressume em:
  * Escolher por qual informação será feita a ordenação;
  * Executar a ordenação e exibir os resultados.
  
-### Setup ###
+Setup
+=======
 
 Dentro do projeto você vai encontrar o package **sorts** com as classes responsáveis por fazer as ordenaçoes.<br/>
 No package **timer** contém a classe que é responsável por marcar o tempo de execução em milisegundos.
